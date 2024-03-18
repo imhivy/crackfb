@@ -86,7 +86,7 @@ def menu_utama():
 	print(f'''{H} _______{P} ______ _____   
 |    ___|   {H}__{P} \     |_  Premium Script
 |    ___|   {H}__{P} <       | Crack Facebook
-|___|   |______/{H}_______{P}| by {H}@hivy01{P}''')
+|___|   |______/{H}_______{P}| by {H}Hivy Store{P}''')
 	nopo = input(f"\n[{H}1{P}] dump pencarian\n[{H}2{P}] dump komentar\n[{H}3{P}] dump nomor\n[{H}4{P}] dump email\n[{H}5{P}] dump random\n[{H}6{P}] dump file\n[{H}7{P}] cek hasil\n[{H}?{P}] menu : "); print()
 	if nopo == "1": Cari_Nama().apa_nama()
 	if nopo == "2": dump_komen()
